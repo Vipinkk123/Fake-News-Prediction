@@ -8,3 +8,6 @@ About the Dataset:
     label: a label that marks whether the news article is real or fake:
          1: Fake news
          0: real News
+Model: Logistic Regression
+Test Accuracy
+    accuracy_score:0.9620192307692308
